@@ -18,7 +18,7 @@ minimal_mistakes_skin    : "mint" # "air", "aqua", "contrast", "dark", "dirt", "
 locale                   : "zh-CN"
 title                    : "曲柄臣的小破站"
 title_separator          : "-"
-subtitle                 : Enjoy yourselves!
+subtitle                 : Enjoy Yourselves!
 name                     : "曲柄臣"
 description              : "一个博客网站不定期发表博文"
 url                      : "https://qubingchen.github.io"
@@ -28,7 +28,7 @@ teaser                   : # path of fallback teaser image, e.g. "/assets/images
 logo                     : "/assets/images/logo.png"
 masthead_title           : # overrides the website title displayed in the masthead, use " " for no title
 # breadcrumbs            : false # true, false (default)
-words_per_minute         : 200
+words_per_minute         : 100
 comments:
   provider               : "facebook"
   disqus:
@@ -106,13 +106,14 @@ analytics:
 author:
   name             : "曲柄臣"
   avatar           : "/assets/images/bio-photo.jpg"
-  bio              : "一个喜欢思考和写作的普通人。"
+  bio              : "一个喜欢*思考*和*写作*的普通人。"
   location         : "山东.中国"
-  email            : qubingchen812@163.com
+  email            : 
   links:
-    - label: "Email"
-      icon: "fal fa-envelope"
+    - label: "Email:qubingchen812@163.com"
+      icon: "fas fa-fw fa-envelope-square"
       url: "mailto:qubingchen812@163.com"
+    - label: "QQ: 1944679924"  
     - label: "Website"
       icon: "fas fa-fw fa-link"
       # url: "https://your-website.com"

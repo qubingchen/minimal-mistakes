@@ -293,7 +293,7 @@ defaults:
       path: ""
       type: posts
     values:
-      layout: single
+      layout: single,pages
       author_profile: true
       show_date: true
       read_time: true
@@ -301,11 +301,4 @@ defaults:
       share: true
       related: true
       date_format: "%Y-%m-%d"
-defaults:
-  # _pages
-  - scope:
-      path: ""
-      type: pages
-    values:
-      layout: single
-      author_profile: true      
+   

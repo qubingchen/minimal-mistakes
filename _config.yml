@@ -28,7 +28,7 @@ teaser                   : # path of fallback teaser image, e.g. "/assets/images
 logo                     : "/assets/images/logo.png"
 masthead_title           : # overrides the website title displayed in the masthead, use " " for no title
 # breadcrumbs            : false # true, false (default)
-words_per_minute         : 100
+words_per_minute         : 50
 comments:
   provider               : "facebook"
   disqus:
@@ -58,7 +58,7 @@ reCaptcha:
   secret                 :
 atom_feed:
   path                   : # blank (default) uses feed.xml
-  hide                   : # true, false (default)
+  hide                   : true
 search                   : true
 search_full_content      : true
 search_provider          : lunr
@@ -106,14 +106,16 @@ analytics:
 author:
   name             : "曲柄臣"
   avatar           : "/assets/images/bio-photo.jpg"
-  bio              : "一个喜欢*思考*和*写作*的普通人。"
+  bio              : "一个喜欢**思考**和**写作**的普通人。"
   location         : "山东.中国"
   email            : 
   links:
-    - label: "Email:qubingchen812@163.com"
+    - label: "Email: qubingchen812@163.com"
       icon: "fas fa-fw fa-envelope-square"
       url: "mailto:qubingchen812@163.com"
-    - label: "QQ: 1944679924"  
+    - label: "QQ: 1944679924"
+      icon: "fa-brands fa-qq"
+      url: "http://wpa.qq.com/msgrd?v=3&uin=1944679924&site=qq&menu=yes"  
     - label: "Website"
       icon: "fas fa-fw fa-link"
       # url: "https://your-website.com"
@@ -125,7 +127,7 @@ author:
       # url: "https://facebook.com/"
     - label: "GitHub"
       icon: "fab fa-fw fa-github"
-      url: "https://github.com/"
+      url: "https://github.com/qubingchen/"
     - label: "Instagram"
       icon: "fab fa-fw fa-instagram"
       # url: "https://instagram.com/"
@@ -141,7 +143,13 @@ footer:
       # url:
     - label: "GitHub"
       icon: "fab fa-fw fa-github"
-      url: "https://github.com/"
+      url: "https://github.com/qubingchen/"
+    - label: "Email: qubingchen812@163.com"
+      icon: "fas fa-fw fa-envelope-square"
+      url: "mailto:qubingchen812@163.com"
+    - label: "QQ: 1944679924"
+      icon: "fa-brands fa-qq"
+      url: "http://wpa.qq.com/msgrd?v=3&uin=1944679924&site=qq&menu=yes"       
     - label: "GitLab"
       icon: "fab fa-fw fa-gitlab"
       # url:

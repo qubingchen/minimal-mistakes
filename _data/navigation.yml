@@ -1,9 +1,13 @@
 # main links
 main:
-  - title: "About"
+  - title: "关于"
     url: /about/
-  # - title: "Sample Posts"
-  #   url: /year-archive/
+  - title: "按年分类"
+    url: /year-archive/
+  - title: "按类别分类"
+    url: /categories/ 
+  - title: "按标签分类"
+    url: /tags/      
   # - title: "Sample Collections"
   #   url: /collection-archive/
   # - title: "Sitemap"

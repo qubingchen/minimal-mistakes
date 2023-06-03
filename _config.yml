@@ -291,9 +291,9 @@ defaults:
   # _posts
   - scope:
       path: ""
-      type: posts
+      type: posts,pages
     values:
-      layout: single,pages
+      layout: single
       author_profile: true
       show_date: true
       read_time: true

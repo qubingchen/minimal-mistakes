@@ -104,11 +104,11 @@ analytics:
 
 # Site Author
 author:
-  name             : "Your Name"
-  avatar           : # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
-  bio              : "I am an **amazing** person."
-  location         : "Somewhere"
-  email            :
+  name             : "曲柄臣"
+  avatar           : "/assets/images/bio-photo.jpg"
+  bio              : "我是一个有个性的人！"
+  location         : "中国"
+  email            : qubingchen812@163.com
   links:
     - label: "Email"
       icon: "fas fa-fw fa-envelope-square"

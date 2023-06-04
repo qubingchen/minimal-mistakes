@@ -2,7 +2,7 @@
 title: 其他帖子
 layout: collection
 permalink: /other/
-collection: 其他帖子
+collection: other
 entries_layout: grid
 classes: wide
 ---

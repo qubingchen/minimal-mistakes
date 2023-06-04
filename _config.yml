@@ -28,7 +28,7 @@ teaser                   : # path of fallback teaser image, e.g. "/assets/images
 logo                     : "/assets/images/logo.png"
 masthead_title           : # overrides the website title displayed in the masthead, use " " for no title
 # breadcrumbs            : false # true, false (default)
-words_per_minute         : "50"
+words_per_minute         : 200
 comments:
   provider               : "facebook"
   disqus:
@@ -296,7 +296,7 @@ defaults:
       layout: single
       author_profile: true
       show_date: true
-      read_time: true
+      read_time: false
       comments: true
       share: true
       related: true
@@ -308,4 +308,13 @@ defaults:
     values:
       layout: single
       author_profile: true      
+  # _other
+  - scope:
+      path: ""
+      type: other
+    values:
+      layout: single
+      author_profile: true
+      share: true
+      comment: true      
    

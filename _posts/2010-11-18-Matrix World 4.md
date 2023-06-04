@@ -7,7 +7,10 @@ tags:
   - 黑客帝国
   - 虚拟世界
   - 错误
-  - 安乐窝  
+  - 安乐窝
+header:
+  overlay_image: /assets/images/m4.jpg
+tagline: 正确源于错误    
 ---
 你我之存在源于错误，但如何界定错误，这要求我们要有正确与之对比。
 

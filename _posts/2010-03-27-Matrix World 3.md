@@ -9,6 +9,9 @@ tags:
   - 母体
   - 主
   - 0和1
+header:
+  overlay_image: /assets/images/m3.jpg
+tagline: 有源于无，三生万物。  
 ---
 母体的本源乃是有与无。也就是说有与无构成了母体。有与无是一切事物的根源。
 

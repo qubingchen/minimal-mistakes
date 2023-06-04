@@ -16,10 +16,10 @@ minimal_mistakes_skin    : "mint" # "air", "aqua", "contrast", "dark", "dirt", "
 
 # Site Settings
 locale                   : "zh-CN"
-title                    : "曲柄臣的小破站"
+title                    : "QBC的小破站"
 title_separator          : "-"
 subtitle                 : Enjoy Yourself!
-name                     : "曲柄臣"
+name                     : "QBC"
 description              : "一个博客网站不定期发表博文"
 url                      : "https://qubingchen.github.io"
 baseurl                  : ""
@@ -104,15 +104,15 @@ analytics:
 
 # Site Author
 author:
-  name             : "曲柄臣"
+  name             : "QBC"
   avatar           : "/assets/images/bio-photo.jpg"
   bio              : "一个喜欢**思考**和**写作**的普通人。"
   location         : "山东.中国"
   email            : 
   links:
-    - label: "Email: qubingchen812@163.com"
+    - label: "Email: 1944679924@qq.com"
       icon: "fas fa-fw fa-envelope-square"
-      url: "mailto:qubingchen812@163.com"
+      url: "mailto:1944679924@qq.com"
     - label: "QQ: 1944679924"
       icon: "fab fa-brands fa-qq"
       url: "https://user.qzone.qq.com/1944679924"  
@@ -144,9 +144,9 @@ footer:
     - label: "GitHub"
       icon: "fab fa-fw fa-github"
       url: "https://github.com/qubingchen/"
-    - label: "Email: qubingchen812@163.com"
+    - label: "Email: 1944679924@qq.com"
       icon: "fas fa-fw fa-envelope-square"
-      url: "mailto:qubingchen812@163.com"
+      url: "mailto:1944679924@qq.com"
     - label: "QQ: 1944679924"
       icon: "fab fa-brands fa-qq"
       url: "https://user.qzone.qq.com/1944679924"       

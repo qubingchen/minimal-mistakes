@@ -2,6 +2,9 @@
 permalink: /about/
 title: "关于"
 last_modified_at: 2023-06-03T11:59:26-04:00
+header:
+  overlay_image: /assets/images/关于.jpg
+tagline: 关于你所看到的 
 ---
 
 ## 关于我为什么要写这些帖子

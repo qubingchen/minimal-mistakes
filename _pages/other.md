@@ -1,9 +1,8 @@
 ---
-title: 其他帖子
+title: "其他帖子"   
 layout: collection
 permalink: /other/
-collection: 其他帖子
-entries_layout: grid
+collection: other
 classes: wide
 ---
 

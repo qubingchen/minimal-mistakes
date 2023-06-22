@@ -315,7 +315,7 @@ defaults:
   # _other
   - scope:
       path: ""
-      type: 
+      type: other
     values:
       layout: single
       author_profile: true
